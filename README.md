@@ -1,16 +1,33 @@
-## Hi there 👋
+# Zulqarnain Rizvi
 
-<!--
-**zulrizvi/zulrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | C++ | Python | TypeScript
 
-Here are some ideas to get you started:
+I build software with a focus on algorithms, debugging,
+performance optimization, and maintainable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### CLI-Chess
+C++ chess application focusing on move generation,
+game-state management, testing and performance.
+
+### NL2Py
+Natural-language-to-Python code generation using
+a custom-trained classification model.
+
+### Finance Backend
+Backend application demonstrating API design,
+database interaction and service architecture.
+
+### Software Engineering Benchmark
+Reproducible software-engineering tasks covering
+bug fixing, feature development, refactoring and
+performance optimization.
+
+## Technologies
+
+C++
+Python
+Git
+CMake
+SQL
