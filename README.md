@@ -1,6 +1,6 @@
 # Zulqarnain Rizvi
 
-Software Engineer | C++ | Python | TypeScript
+Software Engineer | C++ | Python
 
 I build software with a focus on algorithms, debugging,
 performance optimization, and maintainable systems.
